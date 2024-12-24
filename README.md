@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mert Güney</h1>
 <h3 align="center">Backend Developer</h3>
 
-- 🔭 I’m currently working at **Block Earner (CryptoFintech)** as a Backend Developer
+- 🔭 I’m currently studying Computer Engineering. I'm a freshman. 
 
-- 🌱 I’m currently learning **Java, Spring Boot, Spring MVC and Hibernate**
+- 🌱 I’m currently learning and improving myself in **ASP.NET Core,.NET MVC,Software Architecture...**
 
-- 💬 Ask me about **C#, ASP.NET Core Web API, ASP.NET Core MVC and Entity Framework Core**
+
 
 
 <h3 align="left">Technologies:</h3>
